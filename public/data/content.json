@@ -1,0 +1,84 @@
+{
+    "Employee": {
+      "fullName": "Safra Ducreay"
+    },
+    "dashboard": [
+      {
+        "ticket": "Unresolved",
+        "amount": 60
+      },
+      {
+        "ticket": "Overdue",
+        "amount": 16
+      },
+      {
+        "ticket": "Open",
+        "amount": 43
+      },
+      {
+        "ticket": "On hold",
+        "amount": 64
+      }
+    ],
+    "stats": [
+      {
+        "ticket": "Resolved",
+        "amount": 449
+      },
+      {
+        "ticket": "Received",
+        "amount": 426
+      },
+      {
+        "ticket": "Average first response time",
+        "amount": "33m"
+      },
+      {
+        "ticket": "Average response time",
+      "time": "3h 8m"
+      },
+      {
+        "ticket": "Resolution within SLA",
+        "percentage": "94%"
+      }
+    ],
+    "tickets": {
+      "unresolved": {
+        "group": "Support",
+        "backlog": [
+          {
+            "category": "Waiting on Feature Request",
+            "amount": 4238
+          },
+          {
+            "category": "Awaiting Customer Response",
+            "amount": 1005
+          },
+          {
+            "category": "Awaiting Developer Fix",
+            "amount": 914
+          },
+          {
+            "category": "Pending",
+            "amount": 281
+          }
+        ]
+      }
+    },
+    "tasks": {
+      "today": [
+        {
+          "task": "Finish ticket update",
+          "status": "Urgent"
+        },
+        {
+          "task": "Create new ticket example",
+          "status": "New"
+        },
+        {
+          "task": "Update ticket report",
+          "status": "Default"
+        }
+      ]
+    }
+  }
